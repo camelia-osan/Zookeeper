@@ -23,13 +23,12 @@ For this project, I chose to use *TypeScript* mainly for its static typing. Also
 ### Requirements
 In order to run this project you need to:
 - Install *TypeScript*
+- Install *readline-sync* using npm:
+```
+npm install readline-sync
+```
 - Compile *TypeScript* to *JavaScript*:
 ```
 tsc example.ts
 node example.js
-```
-
-- Install *readline-sync* using npm:
-```
-npm install readline-sync
 ```
