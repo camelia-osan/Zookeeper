@@ -4,7 +4,7 @@ TypeScript console project
 
 ### Description
 Zookeeper is a TypeScript console project that allows users to select and see different animals habitats.
-![](./orar.png)
+[](./orar.png)
 
 ### Process
 The habitats consist of 6 different animals (camel, lion, deer, goose, bat and rabbit). Each animal is an ASCII image string with an assigned ID that is added in a list.
